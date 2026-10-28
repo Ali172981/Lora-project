@@ -3,12 +3,11 @@
 
 **Platform:** ESP32 sensor nodes • SX1278 LoRa • Gateway • Blynk Cloud
 
-**Student Name:** ______________________________  
-**Registration / Roll No.:** _____________________  
-**Department / Programme:** ____________________  
-**Institution:** _________________________________  
-**Supervisor / Professor:** ______________________  
-**Submission Date:** ___________________________
+**Student Name:** Muhammad Ali  
+**Department / Programme:** BS Physics  
+**Institution:** BUITEMS  
+**Supervisor / Professor:** DR.Rafaqat hussain  
+**Submission Date:** 2025
 
 *Prepared from the supplied project progress document and firmware files.*
 
